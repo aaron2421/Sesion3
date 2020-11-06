@@ -19,6 +19,29 @@
 
 /* Reto 3 (rama task/002/Publicidad) */
   
+/* Reto 4 (rama task/003/contenedorDeVideoConFlexBox) */
+
+.explanatory-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+}
+  
+.explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
+}
+
+.promo{
+    background-color: rgb(255, 244, 233);
+    padding: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+/* Estilos de publicidad */
+
 .publish h3 {
     font-family: "Alegreya", serif;
     font-size: 40px;
